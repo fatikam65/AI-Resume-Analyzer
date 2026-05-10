@@ -3,3 +3,4 @@ plotly
 pandas
 textblob
 PyPDF2
+scikit-learn
